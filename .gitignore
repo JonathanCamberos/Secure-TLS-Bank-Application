@@ -1,0 +1,4 @@
+# https://help.github.com/articles/ignoring-files/  for ignoring files documentation
+
+# virtual environment folder
+/venv
